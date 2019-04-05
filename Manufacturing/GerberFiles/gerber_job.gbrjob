@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-04-05T17:30:53Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.3.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "pic16f877a_de"
+        },
+        "Owner": "Atick Faisal <atickfaisal1@gmail.com>",
+        "Size": {
+            "X": 64.75,
+            "Y": 84.76
+        }
+    }
+}
