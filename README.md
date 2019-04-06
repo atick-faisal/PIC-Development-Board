@@ -1,4 +1,4 @@
-# PIC Development Board <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/670/1861525670_4ff917d1-f662-4bbf-95c5-f692e77d1a76.png" width="70" height="100" align="right"/> 
+# PIC Development Board <img src="https://dewey.tailorbrands.com/production/brand_version_mockup_image/190/1861540190_ac723b67-1046-4832-bed8-18d3353185aa.png" width="70" height="100" align="right"/> 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 <p align="center">
